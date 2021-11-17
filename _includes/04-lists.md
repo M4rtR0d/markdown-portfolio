@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. France
+   * Tartar
+   - Gambas
+
+2. Brasil
+   * Rodizio
+
+3. Israel
+   * Hummus
